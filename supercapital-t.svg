@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="210mm"
+   height="297mm"
+   viewBox="0 0 210 297"
+   version="1.1"
+   id="svg232"
+   inkscape:version="1.2.2 (b0a84865, 2022-12-01)"
+   sodipodi:docname="supercapital-t.svg"
+   inkscape:export-filename="supercapital-t.png"
+   inkscape:export-xdpi="96"
+   inkscape:export-ydpi="96"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview234"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:document-units="mm"
+     showgrid="true"
+     inkscape:zoom="0.53725509"
+     inkscape:cx="258.72254"
+     inkscape:cy="572.35382"
+     inkscape:window-width="1439"
+     inkscape:window-height="847"
+     inkscape:window-x="398"
+     inkscape:window-y="1105"
+     inkscape:window-maximized="0"
+     inkscape:current-layer="layer1">
+    <inkscape:grid
+       type="xygrid"
+       id="grid403"
+       spacingx="2.6458333"
+       spacingy="2.6458333" />
+  </sodipodi:namedview>
+  <defs
+     id="defs229" />
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <path
+       style="fill:#ffffff;stroke:#6796d2;stroke-width:4;stroke-linecap:round;stroke-linejoin:round"
+       d="M 39.6875,39.6875 V 52.916666 H 34.395833 V 66.145832 H 39.6875 V 105.83333 H 52.916666 V 66.145832 H 66.145832 V 52.916666 H 52.916666 V 39.6875 Z"
+       id="path405" />
+    <path
+       style="fill:#ffffff;stroke:#6796d2;stroke-width:4;stroke-linecap:round;stroke-linejoin:round"
+       d="m 105.83333,39.6875 v 13.229166 h 26.45833 v 52.916664 h 13.22917 V 52.916666 h 26.45833 V 39.6875 Z"
+       id="path407" />
+    <path
+       style="fill:#ffffff;stroke:#6796d2;stroke-width:4;stroke-linecap:round;stroke-linejoin:round"
+       d="m 39.6875,251.35416 v -66.14583 h 66.14583 v 13.22916 H 52.916666 v 52.91667 z"
+       id="path409" />
+    <path
+       style="fill:#ffffff;stroke:#6796d2;stroke-width:4;stroke-linecap:round;stroke-linejoin:round"
+       d="m 39.6875,158.75 v 13.22916 h 66.14583 V 158.75 Z"
+       id="path411" />
+  </g>
+</svg>
